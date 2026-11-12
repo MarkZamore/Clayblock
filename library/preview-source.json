@@ -1,0 +1,27 @@
+{
+  "authorArchiveSha256": "65acd2b65ff2349aef8bc78ee091d2a17e9c2b20c5b2859fb7eb1ec35d4d3b20",
+  "preview": {
+    "height": 540,
+    "sha256": "7069699b0cb1f3efd24d00e3f368c3cf392f3cfebc11829917fc712823f221e6",
+    "sizeBytes": 87442,
+    "width": 960
+  },
+  "schemaVersion": 1,
+  "source": {
+    "authorPage": "https://www.curseforge.com/minecraft/modpacks/clayblock/gallery",
+    "height": 768,
+    "sha256": "a4afbc88e7fd267a34e1eeeebc963424f8a1cabe7d5d940083b20737ffd89d59",
+    "sizeBytes": 261787,
+    "url": "https://media.forgecdn.net/attachments/1571/430/clayblock-promo-png.png",
+    "width": 1024
+  },
+  "transformation": {
+    "background": "#121212",
+    "format": "JPEG",
+    "method": "Lanczos resize preserving the full image",
+    "optimize": true,
+    "pillowVersion": "12.3.0",
+    "quality": 92,
+    "subsampling": 0
+  }
+}
