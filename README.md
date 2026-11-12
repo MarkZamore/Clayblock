@@ -6,8 +6,17 @@
 
 ## Восстановление авторского клиента
 
-Из корня LANMinecraft используйте `tools/PackData/CurseForge/prepare.py` с `--project-id 1481123` и `--file-id 7932186`. Укажите этот lock через `--expect` и новый каталог внутри своего стенда через `--output`. Полная подготовка проверяет все заявленные зависимости. Отдельный lock поставки и метаданные карточки готовятся после запуска и проверки фактического состава.
+Закреплённый авторский клиент CurseForge использует project ID 1481123 и file ID 7932186.
+Для подготовки текущего кандидата из корня LANMinecraft запустите:
+
+```powershell
+python -B tools/PackData/CurseForge/release_overlay.py stage --pack-source LocalSources/Clayblock --output $stage
+```
+
+`tools/overlay.json` сохраняет политику открытия мира через Steam. Для нового авторского выпуска снимите отдельную квитанцию через `prepare.py --client-only` и проверьте её командой `release_overlay.py review-update`. При изменении защищённого входа пересмотрите рецепт и закрепите новые точные байты. После нативной проверки сохраните полный `tools/upstream-lock.json` и выполните `release_overlay.py verify` по готовому манифесту.
 
 ## Публикация
 
 У сборки MIT. В манифесте закреплён Collective, CF 342584/7148969. Условия мода требуют загрузку с CurseForge или Modrinth. [Условия](https://www.curseforge.com/minecraft/mc-mods/collective)
+
+Пользователь подтвердил наличие разрешения на перезалив. Публикация следует после проверки полного состава и нативной приёмки.
