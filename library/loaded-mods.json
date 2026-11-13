@@ -1,0 +1,917 @@
+{
+  "loader": {
+    "type": "neoforge",
+    "version": "21.1.219"
+  },
+  "minecraftVersion": "1.21.1",
+  "mods": [
+    {
+      "id": "advancements_reloaded",
+      "name": "Advancements Reloaded",
+      "nativeSourceFile": "advancements_reloaded-0.6.1-neoforge-1.21.1.jar",
+      "source": "mods/advancements_reloaded-0.6.1-neoforge-1.21.1.jar",
+      "version": "0.6.1"
+    },
+    {
+      "id": "ali",
+      "name": "AdvancedLootInfo",
+      "nativeSourceFile": "AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar",
+      "source": "mods/AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar",
+      "version": "1.8.2"
+    },
+    {
+      "id": "appleskin",
+      "name": "AppleSkin",
+      "nativeSourceFile": "appleskin-neoforge-mc1.21-3.0.8.jar",
+      "source": "mods/appleskin-neoforge-mc1.21-3.0.8.jar",
+      "version": "3.0.8+mc1.21"
+    },
+    {
+      "id": "architectury",
+      "name": "Architectury",
+      "nativeSourceFile": "architectury-13.0.8-neoforge.jar",
+      "source": "mods/architectury-13.0.8-neoforge.jar",
+      "version": "13.0.8"
+    },
+    {
+      "id": "astages",
+      "name": "Astages",
+      "nativeSourceFile": "astages-2.0.0-alpha.6-1.21.1.jar",
+      "source": "mods/astages-2.0.0-alpha.6-1.21.1.jar",
+      "version": "2.0.0-alpha.6-1.21.1"
+    },
+    {
+      "id": "balm",
+      "name": "Balm",
+      "nativeSourceFile": "balm-neoforge-1.21.1-21.0.56.jar",
+      "source": "mods/balm-neoforge-1.21.1-21.0.56.jar",
+      "version": "21.0.56"
+    },
+    {
+      "id": "betterendisland",
+      "name": "YUNG's Better End Island",
+      "nativeSourceFile": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "source": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "version": "1.21.1-NeoForge-3.1.2"
+    },
+    {
+      "id": "blueprint",
+      "name": "Blueprint",
+      "nativeSourceFile": "blueprint-1.21.1-8.0.8.jar",
+      "source": "mods/blueprint-1.21.1-8.0.8.jar",
+      "version": "8.0.8"
+    },
+    {
+      "id": "bookshelf",
+      "name": "Bookshelf",
+      "nativeSourceFile": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "source": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "version": "21.1.81"
+    },
+    {
+      "id": "chickenchunks",
+      "name": "ChickenChunks",
+      "nativeSourceFile": "ChickenChunks-1.21.1-2.12.0.103.jar",
+      "source": "mods/ChickenChunks-1.21.1-2.12.0.103.jar",
+      "version": "2.12.0.103"
+    },
+    {
+      "id": "chunksending",
+      "name": "chunksending mod",
+      "nativeSourceFile": "chunksending-1.21-2.8.jar",
+      "source": "mods/chunksending-1.21-2.8.jar",
+      "version": "2.8"
+    },
+    {
+      "id": "clayworks",
+      "name": "Clayworks",
+      "nativeSourceFile": "clayworks-1.21.1-4.0.2.jar",
+      "source": "mods/clayworks-1.21.1-4.0.2.jar",
+      "version": "4.0.2"
+    },
+    {
+      "id": "clickadv",
+      "name": "Clickable Advancements mod",
+      "nativeSourceFile": "clickadv-1.21-3.8.jar",
+      "source": "mods/clickadv-1.21-3.8.jar",
+      "version": "3.8"
+    },
+    {
+      "id": "cloth_config",
+      "name": "Cloth Config v15 API",
+      "nativeSourceFile": "cloth-config-15.0.140-neoforge.jar",
+      "source": "mods/cloth-config-15.0.140-neoforge.jar",
+      "version": "15.0.140"
+    },
+    {
+      "id": "codechickenlib",
+      "name": "CodeChicken Lib",
+      "nativeSourceFile": "CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "source": "mods/CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "version": "4.6.1.526"
+    },
+    {
+      "id": "collective",
+      "name": "Collective",
+      "nativeSourceFile": "collective-1.21.1-8.13.jar",
+      "source": "mods/collective-1.21.1-8.13.jar",
+      "version": "8.13"
+    },
+    {
+      "id": "configured",
+      "name": "Configured",
+      "nativeSourceFile": "configured-neoforge-1.21.1-2.6.3.jar",
+      "source": "mods/configured-neoforge-1.21.1-2.6.3.jar",
+      "version": "2.6.3"
+    },
+    {
+      "id": "connectivity",
+      "name": "Connectivity Mod",
+      "nativeSourceFile": "connectivity-1.21.1-7.6.jar",
+      "source": "mods/connectivity-1.21.1-7.6.jar",
+      "version": "7.6"
+    },
+    {
+      "id": "controlling",
+      "name": "Controlling",
+      "nativeSourceFile": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "source": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "version": "19.0.5"
+    },
+    {
+      "id": "craftingtweaks",
+      "name": "Crafting Tweaks",
+      "nativeSourceFile": "craftingtweaks-neoforge-1.21.1-21.1.7.jar",
+      "source": "mods/craftingtweaks-neoforge-1.21.1-21.1.7.jar",
+      "version": "21.1.7"
+    },
+    {
+      "id": "csr",
+      "name": "Clay Soldiers Remake",
+      "nativeSourceFile": "csr-neoforge-1.21.1-1.0.2.jar",
+      "source": "mods/csr-neoforge-1.21.1-1.0.2.jar",
+      "version": "1.0.2"
+    },
+    {
+      "id": "cupboard",
+      "name": "Cupboard mod",
+      "nativeSourceFile": "cupboard-1.21-3.5.jar",
+      "source": "mods/cupboard-1.21-3.5.jar",
+      "version": "3.5"
+    },
+    {
+      "id": "curios",
+      "name": "Curios API",
+      "nativeSourceFile": "curios-neoforge-9.5.1+1.21.1.jar",
+      "source": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "version": "9.5.1+1.21.1"
+    },
+    {
+      "id": "custommachinery",
+      "name": "Custom Machinery",
+      "nativeSourceFile": "CustomMachinery-neoforge-1.21.1-0.10.58.jar",
+      "source": "mods/CustomMachinery-neoforge-1.21.1-0.10.58.jar",
+      "version": "0.10.58"
+    },
+    {
+      "id": "dontcrashtom",
+      "name": "Don't Crash Tom",
+      "nativeSourceFile": "dontcrashtom-1.0.0.jar",
+      "source": "mods/dontcrashtom-1.0.0.jar",
+      "version": "1.0.0"
+    },
+    {
+      "id": "dragonfight",
+      "name": "dragonfight mod",
+      "nativeSourceFile": "dragonfight-1.21-4.7.jar",
+      "source": "mods/dragonfight-1.21-4.7.jar",
+      "version": "4.7"
+    },
+    {
+      "id": "easyshulkerboxes",
+      "name": "Easy Shulker Boxes",
+      "nativeSourceFile": "EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
+      "source": "mods/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
+      "version": "21.1.3"
+    },
+    {
+      "id": "effortlessbuilding",
+      "name": "Effortless Building",
+      "nativeSourceFile": "effortlessbuilding-1.21.1-3.10-all.jar",
+      "source": "mods/effortlessbuilding-1.21.1-3.10-all.jar",
+      "version": "3.10"
+    },
+    {
+      "id": "extended_industrialization",
+      "name": "Extended Industrialization",
+      "nativeSourceFile": "extended-industrialization-1.15.34-1.21.1.jar",
+      "source": "mods/extended-industrialization-1.15.34-1.21.1.jar",
+      "version": "1.15.34-1.21.1"
+    },
+    {
+      "id": "fabric_api_base",
+      "name": "Forgified Fabric API Base",
+      "nativeSourceFile": "fabric-api-base-0.4.42+d1308ded19.jar",
+      "sourceCandidates": [
+        "mods/Kiwi-1.21.1-NeoForge-15.8.3.jar",
+        "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+        "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+      ],
+      "version": "0.4.42+d1308ded19"
+    },
+    {
+      "id": "fabric_block_view_api_v2",
+      "name": "Forgified Fabric BlockView API (v2)",
+      "nativeSourceFile": "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar",
+      "sourceCandidates": [
+        "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+        "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+      ],
+      "version": "1.0.10+9afaaf8c19"
+    },
+    {
+      "id": "fabric_particles_v1",
+      "name": "Forgified Fabric Particles (v1)",
+      "nativeSourceFile": "fabric-particles-v1-4.0.2+824f924c19.jar",
+      "source": "mods/Lychee-1.21.1-NeoForge-6.5.0.jar",
+      "version": "4.0.2+824f924c19"
+    },
+    {
+      "id": "fabric_renderer_api_v1",
+      "name": "Forgified Fabric Renderer API (v1)",
+      "nativeSourceFile": "fabric-renderer-api-v1-3.4.0+acb05a3919.jar",
+      "source": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "version": "3.4.0+acb05a3919"
+    },
+    {
+      "id": "fabric_rendering_data_attachment_v1",
+      "name": "Forgified Fabric Rendering Data Attachment (v1)",
+      "nativeSourceFile": "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar",
+      "sourceCandidates": [
+        "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+        "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+      ],
+      "version": "0.3.48+73761d2e19"
+    },
+    {
+      "id": "fastbench",
+      "name": "Fast Workbench",
+      "nativeSourceFile": "FastWorkbench-1.21.1-9.1.3.jar",
+      "source": "mods/FastWorkbench-1.21.1-9.1.3.jar",
+      "version": "9.1.3"
+    },
+    {
+      "id": "fastpipes",
+      "name": "FastPipes",
+      "nativeSourceFile": "fastpipes-1.21.1-1.2.0.jar",
+      "source": "mods/fastpipes-1.21.1-1.2.0.jar",
+      "version": "1.2.0"
+    },
+    {
+      "id": "fastsuite",
+      "name": "Fast Suite",
+      "nativeSourceFile": "FastSuite-1.21.1-6.0.7.jar",
+      "source": "mods/FastSuite-1.21.1-6.0.7.jar",
+      "version": "6.0.7"
+    },
+    {
+      "id": "ferritecore",
+      "name": "Ferrite Core",
+      "nativeSourceFile": "ferritecore-7.0.3-neoforge.jar",
+      "source": "mods/ferritecore-7.0.3-neoforge.jar",
+      "version": "7.0.3"
+    },
+    {
+      "id": "findme",
+      "name": "FindMe",
+      "nativeSourceFile": "findme-3.3.3-neoforge.jar",
+      "source": "mods/findme-3.3.3-neoforge.jar",
+      "version": "3.3.3"
+    },
+    {
+      "id": "flywheel",
+      "name": "Flywheel",
+      "nativeSourceFile": "flywheel-neoforge-1.21.1-1.0.4-beta-21.jar",
+      "source": "mods/schematicannon-1.21.1-6.0.7.jar",
+      "version": "1.0.4-beta-21"
+    },
+    {
+      "id": "geckolib",
+      "name": "GeckoLib 4",
+      "nativeSourceFile": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "source": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "version": "4.8.4"
+    },
+    {
+      "id": "generalfeedback",
+      "name": "GeneralFeedback",
+      "nativeSourceFile": "generalfeedback-1.0.0.jar",
+      "source": "mods/generalfeedback-1.0.0.jar",
+      "version": "1.0.0"
+    },
+    {
+      "id": "gpumemleakfix",
+      "name": "Gpu memory leak fix",
+      "nativeSourceFile": "gpumemleakfix-1.21-1.8.jar",
+      "source": "mods/gpumemleakfix-1.21-1.8.jar",
+      "version": "1.8"
+    },
+    {
+      "id": "grandpower",
+      "name": "Grand Power",
+      "nativeSourceFile": "GrandPower-3.0.0.jar",
+      "source": "mods/Modern-Industrialization-2.4.2.jar",
+      "version": "3.0.0"
+    },
+    {
+      "id": "guideme",
+      "name": "GuideME",
+      "nativeSourceFile": "guideme-21.1.15.jar",
+      "source": "mods/guideme-21.1.15.jar",
+      "version": "21.1.15"
+    },
+    {
+      "id": "incontrol",
+      "name": "InControl",
+      "nativeSourceFile": "incontrol-1.21-10.2.6.jar",
+      "source": "mods/incontrol-1.21-10.2.6.jar",
+      "version": "1.21-10.2.6"
+    },
+    {
+      "id": "industrialization_overdrive",
+      "name": "Industrialization Overdrive",
+      "nativeSourceFile": "industrialization_overdrive-1.11.1+1.21.1.jar",
+      "source": "mods/industrialization_overdrive-1.11.1+1.21.1.jar",
+      "version": "1.11.1+1.21.1"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "nativeSourceFile": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "source": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "version": "1.8.12-snapshot+mc1.21.1-local"
+    },
+    {
+      "id": "ironchest",
+      "name": "Iron Chests",
+      "nativeSourceFile": "ironchest-1.21-neoforge-16.0.7.jar",
+      "source": "mods/ironchest-1.21-neoforge-16.0.7.jar",
+      "version": "1.21-neoforge-16.0.7"
+    },
+    {
+      "id": "iteminteractions",
+      "name": "Item Interactions",
+      "nativeSourceFile": "iteminteractions-neoforge-21.1.4.jar",
+      "source": "mods/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
+      "version": "21.1.4"
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "nativeSourceFile": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "source": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "version": "15.10.5+neoforge"
+    },
+    {
+      "id": "jadeaddons",
+      "name": "Jade Addons",
+      "nativeSourceFile": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "source": "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "version": "6.1.0+neoforge"
+    },
+    {
+      "id": "jamlib",
+      "name": "JamLib",
+      "nativeSourceFile": "jamlib-neoforge-1.3.6+1.21.1.jar",
+      "source": "mods/jamlib-neoforge-1.3.6+1.21.1.jar",
+      "version": "1.3.6+1.21.1"
+    },
+    {
+      "id": "jei",
+      "name": "Just Enough Items",
+      "nativeSourceFile": "jei-1.21.1-neoforge-19.27.0.340.jar",
+      "source": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "version": "19.27.0.340"
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi Library",
+      "nativeSourceFile": "Kiwi-1.21.1-NeoForge-15.8.3.jar",
+      "source": "mods/Kiwi-1.21.1-NeoForge-15.8.3.jar",
+      "version": "15.8.3+neoforge"
+    },
+    {
+      "id": "kubejs",
+      "name": "KubeJS",
+      "nativeSourceFile": "kubejs-neoforge-2101.7.2-build.348.jar",
+      "source": "mods/kubejs-neoforge-2101.7.2-build.348.jar",
+      "version": "2101.7.2-build.348"
+    },
+    {
+      "id": "kuma_api",
+      "name": "KumaAPI",
+      "nativeSourceFile": "kuma-api-neoforge-21.0.7+1.21.jar",
+      "source": "mods/balm-neoforge-1.21.1-21.0.56.jar",
+      "version": "21.0.7"
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "nativeSourceFile": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "source": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "version": "0.15.3+mc1.21.1"
+    },
+    {
+      "id": "lithostitched",
+      "name": "Lithostitched",
+      "nativeSourceFile": "lithostitched-1.6.5-neoforge-21.1.jar",
+      "source": "mods/lithostitched-1.6.5-neoforge-21.1.jar",
+      "version": "1.6.5"
+    },
+    {
+      "id": "lootjs",
+      "name": "LootJS",
+      "nativeSourceFile": "lootjs-neoforge-1.21.1-3.6.1.jar",
+      "source": "mods/lootjs-neoforge-1.21.1-3.6.1.jar",
+      "version": "1.21.1-3.6.1"
+    },
+    {
+      "id": "lychee",
+      "name": "Lychee Tweaker",
+      "nativeSourceFile": "Lychee-1.21.1-NeoForge-6.5.0.jar",
+      "source": "mods/Lychee-1.21.1-NeoForge-6.5.0.jar",
+      "version": "6.5.0+neoforge"
+    },
+    {
+      "id": "mcjtylib",
+      "name": "McJtyLib",
+      "nativeSourceFile": "mcjtylib-1.21-9.0.20.jar",
+      "source": "mods/mcjtylib-1.21-9.0.20.jar",
+      "version": "1.21-9.0.20"
+    },
+    {
+      "id": "mi_sound_addon",
+      "name": "MI Sound Addon",
+      "nativeSourceFile": "mi_sound_addon-1.2.0-1.21.1.jar",
+      "source": "mods/mi_sound_addon-1.2.0-1.21.1.jar",
+      "version": "1.2.0-1.21.1"
+    },
+    {
+      "id": "modern_industrialization",
+      "name": "Modern Industrialization",
+      "nativeSourceFile": "Modern-Industrialization-2.4.2.jar",
+      "source": "mods/Modern-Industrialization-2.4.2.jar",
+      "version": "2.4.2"
+    },
+    {
+      "id": "moderndynamics",
+      "name": "Modern Dynamics",
+      "nativeSourceFile": "Modern-Dynamics-0.9.6.jar",
+      "source": "mods/Modern-Dynamics-0.9.6.jar",
+      "version": "0.9.6"
+    },
+    {
+      "id": "modernfix",
+      "name": "ModernFix",
+      "nativeSourceFile": "modernfix-neoforge-5.26.1+mc1.21.1.jar",
+      "source": "mods/modernfix-neoforge-5.26.1+mc1.21.1.jar",
+      "version": "5.26.1+mc1.21.1"
+    },
+    {
+      "id": "mousetweaks",
+      "name": "Mouse Tweaks",
+      "nativeSourceFile": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "source": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "version": "2.26.1"
+    },
+    {
+      "id": "mowziesmobs",
+      "name": "Mowzie's Mobs",
+      "nativeSourceFile": "mowziesmobs-1.21.1-1.8.2.jar",
+      "source": "mods/mowziesmobs-1.21.1-1.8.2.jar",
+      "version": "1.8.2"
+    },
+    {
+      "id": "mr_auto_droppers",
+      "name": "Auto Droppers",
+      "nativeSourceFile": "auto-droppers-1.0.6.jar",
+      "source": "mods/auto-droppers-1.0.6.jar",
+      "version": "1.0.6"
+    },
+    {
+      "id": "nullscape",
+      "name": "Nullscape",
+      "nativeSourceFile": "Nullscape_1.21.x_v1.2.14.jar",
+      "source": "mods/Nullscape_1.21.x_v1.2.14.jar",
+      "version": "1.2.14"
+    },
+    {
+      "id": "onlyhammersandexcavators",
+      "name": "OnlyHammersAndExcavators",
+      "nativeSourceFile": "onlyhammersandexcavators-1.21.1-0.9.jar",
+      "source": "mods/onlyhammersandexcavators-1.21.1-0.9.jar",
+      "version": "1.21.1-0.9"
+    },
+    {
+      "id": "openloader",
+      "name": "OpenLoader",
+      "nativeSourceFile": "OpenLoader-neoforge-1.21.1-21.1.5.jar",
+      "source": "mods/OpenLoader-neoforge-1.21.1-21.1.5.jar",
+      "version": "21.1.5"
+    },
+    {
+      "id": "patched",
+      "name": "Patched",
+      "nativeSourceFile": "Patched-9.0.0+1.21.1-neoforge.jar",
+      "source": "mods/Patched-9.0.0+1.21.1-neoforge.jar",
+      "version": "9.0.0+1.21.1-neoforge"
+    },
+    {
+      "id": "patchouli",
+      "name": "Patchouli",
+      "nativeSourceFile": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "source": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "version": "1.21.1-93-NEOFORGE"
+    },
+    {
+      "id": "placebo",
+      "name": "Placebo",
+      "nativeSourceFile": "Placebo-1.21.1-9.9.1.jar",
+      "source": "mods/Placebo-1.21.1-9.9.1.jar",
+      "version": "9.9.1"
+    },
+    {
+      "id": "ponder",
+      "name": "Ponder",
+      "nativeSourceFile": "Ponder-NeoForge-1.21.1-1.0.56.jar",
+      "source": "mods/schematicannon-1.21.1-6.0.7.jar",
+      "version": "1.0.56"
+    },
+    {
+      "id": "prickle",
+      "name": "PrickleMC",
+      "nativeSourceFile": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "source": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "version": "21.1.11"
+    },
+    {
+      "id": "probejs",
+      "name": "ProbeJS",
+      "nativeSourceFile": "ProbeJS-7.7.2.jar",
+      "source": "mods/ProbeJS-7.7.2.jar",
+      "version": "7.7.2"
+    },
+    {
+      "id": "puzzleslib",
+      "name": "Puzzles Lib",
+      "nativeSourceFile": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "source": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "version": "21.1.39"
+    },
+    {
+      "id": "rehooked",
+      "name": "ReHooked",
+      "nativeSourceFile": "rehooked-1.9.4-1.21.1.jar",
+      "source": "mods/rehooked-1.9.4-1.21.1.jar",
+      "version": "1.9.4-1.21.1"
+    },
+    {
+      "id": "reliable_recipes",
+      "name": "Reliable Recipes",
+      "nativeSourceFile": "reliable-recipes-1.6.2-1.21.1-neoforge.jar",
+      "source": "mods/reliable_remover-neoforge-1.21.1-1.7.5.jar",
+      "version": "1.6.2"
+    },
+    {
+      "id": "reliable_remover",
+      "name": "Reliable Remover",
+      "nativeSourceFile": "reliable_remover-neoforge-1.21.1-1.7.5.jar",
+      "source": "mods/reliable_remover-neoforge-1.21.1-1.7.5.jar",
+      "version": "1.7.5"
+    },
+    {
+      "id": "rftoolsbase",
+      "name": "RFToolsBase",
+      "nativeSourceFile": "rftoolsbase-1.21-6.0.10.jar",
+      "source": "mods/rftoolsbase-1.21-6.0.10.jar",
+      "version": "1.21-6.0.10"
+    },
+    {
+      "id": "rftoolsbuilder",
+      "name": "RFToolsBuilder",
+      "nativeSourceFile": "rftoolsbuilder-1.21-7.0.4.jar",
+      "source": "mods/rftoolsbuilder-1.21-7.0.4.jar",
+      "version": "1.21-7.0.4"
+    },
+    {
+      "id": "rftoolspower",
+      "name": "RFToolsPower",
+      "nativeSourceFile": "rftoolspower-1.21-7.0.5.jar",
+      "source": "mods/rftoolspower-1.21-7.0.5.jar",
+      "version": "1.21-7.0.5"
+    },
+    {
+      "id": "rftoolsutility",
+      "name": "RFToolsUtility",
+      "nativeSourceFile": "rftoolsutility-1.21-7.0.11.jar",
+      "source": "mods/rftoolsutility-1.21-7.0.11.jar",
+      "version": "1.21-7.0.11"
+    },
+    {
+      "id": "rhino",
+      "name": "Rhino",
+      "nativeSourceFile": "rhino-2101.2.7-build.81.jar",
+      "source": "mods/rhino-2101.2.7-build.81.jar",
+      "version": "2101.2.7-build.81"
+    },
+    {
+      "id": "rightclickharvest",
+      "name": "Right Click Harvest",
+      "nativeSourceFile": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+      "source": "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+      "version": "4.6.1+1.21.1"
+    },
+    {
+      "id": "schematicannon",
+      "name": "Schematicannon",
+      "nativeSourceFile": "schematicannon-1.21.1-6.0.7.jar",
+      "source": "mods/schematicannon-1.21.1-6.0.7.jar",
+      "version": "6.0.7"
+    },
+    {
+      "id": "searchables",
+      "name": "Searchables",
+      "nativeSourceFile": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "source": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "version": "1.0.2"
+    },
+    {
+      "id": "shulkerboxslot",
+      "name": "Shulker Box Slot",
+      "nativeSourceFile": "shulkerboxslot-neoforge-6.0.0+1.21.1.jar",
+      "source": "mods/shulkerboxslot-neoforge-6.0.0+1.21.1.jar",
+      "version": "6.0.0+1.21.1"
+    },
+    {
+      "id": "simplemenu",
+      "name": "Simple Menu",
+      "nativeSourceFile": "simplemenu-1.21.1-2.0.jar",
+      "source": "mods/simplemenu-1.21.1-2.0.jar",
+      "version": "2.0"
+    },
+    {
+      "id": "smartcrafting",
+      "name": "BBL Smart Crafting Table",
+      "nativeSourceFile": "smartcrafting-1.21.1-1.2.13.jar",
+      "source": "mods/smartcrafting-1.21.1-1.2.13.jar",
+      "version": "1.2.13"
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "nativeSourceFile": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "source": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "version": "0.6.13+mc1.21.1"
+    },
+    {
+      "id": "sophisticatedcore",
+      "name": "Sophisticated Core",
+      "nativeSourceFile": "sophisticatedcore-1.21.1-1.4.13.1573.jar",
+      "source": "mods/sophisticatedcore-1.21.1-1.4.13.1573.jar",
+      "version": "1.4.13"
+    },
+    {
+      "id": "sophisticatedsorter",
+      "name": "SophisticatedSorter",
+      "nativeSourceFile": "sophisticatedsorter-1.0.6-hotfix.jar",
+      "source": "mods/sophisticatedsorter-1.0.6-hotfix.jar",
+      "version": "1.0.6"
+    },
+    {
+      "id": "soulgravestone",
+      "name": "Soul Gravestone",
+      "nativeSourceFile": "soulgravestone-1.0.2.jar",
+      "source": "mods/soulgravestone-1.0.2.jar",
+      "version": "1.0.2"
+    },
+    {
+      "id": "spectrelib",
+      "name": "SpectreLib",
+      "nativeSourceFile": "spectrelib-neoforge-0.17.2+1.21.jar",
+      "source": "mods/shulkerboxslot-neoforge-6.0.0+1.21.1.jar",
+      "version": "0.17.2+1.21"
+    },
+    {
+      "id": "storagedrawers",
+      "name": "Storage Drawers",
+      "nativeSourceFile": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "source": "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "version": "13.11.4"
+    },
+    {
+      "id": "takesavillage",
+      "name": "Takes a Village",
+      "nativeSourceFile": "TakesAVillage(NEOFORGE)V2.1.jar",
+      "source": "mods/TakesAVillage(NEOFORGE)V2.1.jar",
+      "version": "1.0.0"
+    },
+    {
+      "id": "tesseract_api",
+      "name": "Tesseract API",
+      "nativeSourceFile": "tesseract-api-neoforge-1.11.10-1.21.1.jar",
+      "source": "mods/tesseract-api-neoforge-1.11.10-1.21.1.jar",
+      "version": "1.11.10-1.21.1"
+    },
+    {
+      "id": "tipsmod",
+      "name": "Tips",
+      "nativeSourceFile": "tipsmod-neoforge-1.21.1-21.1.3.jar",
+      "source": "mods/tipsmod-neoforge-1.21.1-21.1.3.jar",
+      "version": "21.1.3"
+    },
+    {
+      "id": "toastcontrol",
+      "name": "Toast Control",
+      "nativeSourceFile": "ToastControl-1.21.1-9.0.1.jar",
+      "source": "mods/ToastControl-1.21.1-9.0.1.jar",
+      "version": "9.0.1"
+    },
+    {
+      "id": "toms_storage",
+      "name": "Tom's Simple Storage Mod",
+      "nativeSourceFile": "toms_storage-1.21-2.3.0.jar",
+      "source": "mods/toms_storage-1.21-2.3.0.jar",
+      "version": "2.3.0"
+    },
+    {
+      "id": "trashslot",
+      "name": "TrashSlot",
+      "nativeSourceFile": "trashslot-neoforge-1.21.1-21.1.6.jar",
+      "source": "mods/trashslot-neoforge-1.21.1-21.1.6.jar",
+      "version": "21.1.6"
+    },
+    {
+      "id": "untitledduckmod",
+      "name": "Untitled Duck Mod",
+      "nativeSourceFile": "untitledduckmod-1.5.2-neoforge-1.21.1.jar",
+      "source": "mods/untitledduckmod-1.5.2-neoforge-1.21.1.jar",
+      "version": "1.5.2"
+    },
+    {
+      "id": "villagerconfig",
+      "name": "VillagerConfig",
+      "nativeSourceFile": "villagerconfig-neoforge-4.5.2+1.21.1.jar",
+      "source": "mods/villagerconfig-neoforge-4.5.2+1.21.1.jar",
+      "version": "4.5.2"
+    },
+    {
+      "id": "villagerinabucket",
+      "name": "Villager In A Bucket",
+      "nativeSourceFile": "villagerinabucket-neoforge-1.21.1-1.1.1.jar",
+      "source": "mods/villagerinabucket-neoforge-1.21.1-1.1.1.jar",
+      "version": "1.21.1-1.1.1"
+    },
+    {
+      "id": "xaerolib",
+      "name": "XaeroLib",
+      "nativeSourceFile": "xaerolib-neoforge-1.21.1-1.1.0.jar",
+      "sourceCandidates": [
+        "mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+        "mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar"
+      ],
+      "version": "1.1.0"
+    },
+    {
+      "id": "xaerominimap",
+      "name": "Xaero's Minimap",
+      "nativeSourceFile": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "source": "mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "version": "25.3.10"
+    },
+    {
+      "id": "xaeroworldmap",
+      "name": "Xaero's World Map",
+      "nativeSourceFile": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "source": "mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "version": "1.40.11"
+    },
+    {
+      "id": "yeetusexperimentus",
+      "name": "Yeetus Experimentus",
+      "nativeSourceFile": "yeetusexperimentus-neoforge-87.0.0.jar",
+      "source": "mods/yeetusexperimentus-neoforge-87.0.0.jar",
+      "version": "87.0.0"
+    },
+    {
+      "id": "yungsapi",
+      "name": "YUNG's API",
+      "nativeSourceFile": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "source": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "version": "1.21.1-NeoForge-5.1.6"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceJars": {
+    "mods/AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar": "8924416906a7590ded3841b7be17e48f564837027872f3cd9366c3ffbc5652ee",
+    "mods/ChickenChunks-1.21.1-2.12.0.103.jar": "23e35201d5e6ea7e2b17272a101f766d6454103e44c56a2fb0c89fbc7081f213",
+    "mods/CodeChickenLib-1.21.1-4.6.1.526.jar": "e35cb0ca3e3aeb87e1e171242454426d22edf517b06dc38e5c3d5b6d44d6bc04",
+    "mods/Controlling-neoforge-1.21.1-19.0.5.jar": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
+    "mods/CustomMachinery-neoforge-1.21.1-0.10.58.jar": "f15289be1b1c7003bca53fa63abde849ab72284dcdbc2026824dfdd13348ef01",
+    "mods/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar": "9976385a5993fd1c5d8b029aad5ac100e67a218c28fc7c9eb0ba59557f860ed8",
+    "mods/FastSuite-1.21.1-6.0.7.jar": "3e274cd01bdc27dff8e2514213f1c45306c86fe38e4271a4209bc1471de6c70d",
+    "mods/FastWorkbench-1.21.1-9.1.3.jar": "abf593ba1584c761f198989008d334c95932afe0a7c6b16af4baa16b54fd1449",
+    "mods/Jade-1.21.1-NeoForge-15.10.5.jar": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
+    "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar": "5f242668ad710092964d4d9afda8a94fa2401665ea13eea67d55d07e4dff8a64",
+    "mods/Kiwi-1.21.1-NeoForge-15.8.3.jar": "16a7f5cf0015ac86ad977b397d6dfef14884412e14c14d428a3598436a2c9561",
+    "mods/Lychee-1.21.1-NeoForge-6.5.0.jar": "7257c01b1c1ba4fa1de082a8e8d36bedc7857fc6dd0224e0f341a5ef1525f964",
+    "mods/Modern-Dynamics-0.9.6.jar": "4357833f16a8f890e4399de3c606a27644add1384d5d1e7246648a818e9cbdab",
+    "mods/Modern-Industrialization-2.4.2.jar": "1400779396be8dbd2e19c1cb3a228a3edec25ba98b14ea71111db665b4c01408",
+    "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+    "mods/Nullscape_1.21.x_v1.2.14.jar": "8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae",
+    "mods/OpenLoader-neoforge-1.21.1-21.1.5.jar": "c0becabbb2d45c254e959d3a26a0237dacdfccb7cde85de98c4b863057e842ff",
+    "mods/Patched-9.0.0+1.21.1-neoforge.jar": "fe71c6bdf8475b5ad72400f612c67757490492b1e89507154d903ffd1c3836fd",
+    "mods/Patchouli-1.21.1-93-NEOFORGE.jar": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
+    "mods/Placebo-1.21.1-9.9.1.jar": "42c90bc43800558b9322bd60faa9011d6694e66a87b7e6b3b9f51fa735b527ea",
+    "mods/ProbeJS-7.7.2.jar": "19c6de01113f987fd09d679c25d0e091fd10b99f9d9657fa59908f0d3a8cc5f3",
+    "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar": "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914",
+    "mods/Searchables-neoforge-1.21.1-1.0.2.jar": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+    "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar": "8bdbc98f32f4166061439e8dda346345012788ddebaeb743a3b585d8a0a0fbbc",
+    "mods/TakesAVillage(NEOFORGE)V2.1.jar": "e9e98c3110bf840669f2f0a044cf417fd375f10ea582f0f7e0c98154b6b11afb",
+    "mods/ToastControl-1.21.1-9.0.1.jar": "f80bc1be4375faaac73971e6d51cc1500935f7144fa33108ee4f2fdbd8f70f66",
+    "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
+    "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
+    "mods/advancements_reloaded-0.6.1-neoforge-1.21.1.jar": "af3816c2c220fe0196bfca5ec08638b510a3380f166c115d8c75c4d1e5c872b6",
+    "mods/appleskin-neoforge-mc1.21-3.0.8.jar": "60691595ce02e48281c1ec0d1fac4e56ba1aadd496dd6c071a41b4da7f82bf42",
+    "mods/architectury-13.0.8-neoforge.jar": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+    "mods/astages-2.0.0-alpha.6-1.21.1.jar": "040704e212b18b782834c56c0f2c13f9e1ee2f6a197023cc2381300229f4fdc1",
+    "mods/auto-droppers-1.0.6.jar": "dc743490f99cc3e9b2a01602a0b8f593749da7a27d29201be6a12977a2dc82c4",
+    "mods/balm-neoforge-1.21.1-21.0.56.jar": "670ed64e73cacb646b21eaa6e2d2028f95c498d0cf1ae5cffcf7035d0b2fb32e",
+    "mods/blueprint-1.21.1-8.0.8.jar": "64c6c3dd4ba12e0939b2fdf3f25426570aff450dc277f14d8d2b248b5bc7dfb7",
+    "mods/bookshelf-neoforge-1.21.1-21.1.81.jar": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
+    "mods/chunksending-1.21-2.8.jar": "711f0f41cf4742a543a643fbc233df9497e577887f5b494c020e146cbd76bf9b",
+    "mods/clayworks-1.21.1-4.0.2.jar": "e7da0dfb866358a760a13c5e9998a50484e0f10ecc186dec58093cb01aa94038",
+    "mods/clickadv-1.21-3.8.jar": "1d149d19063ecf862757460504d72eabcf31339d986c16ba23e4cee1b43a13fd",
+    "mods/cloth-config-15.0.140-neoforge.jar": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+    "mods/collective-1.21.1-8.13.jar": "d183b2e301c61c346a7b787beadbe880b92626e08d9ff11585e88fd00c67bf3f",
+    "mods/configured-neoforge-1.21.1-2.6.3.jar": "421ffd2604b5487cbdb284d1eb5d1cb8a7d28f3ff84d5b4bda25e0a579282a15",
+    "mods/connectivity-1.21.1-7.6.jar": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a",
+    "mods/craftingtweaks-neoforge-1.21.1-21.1.7.jar": "a48db6f2f4f793c71bec8dc4b11257776f5ba11b402bcd22067a96ce47451e0f",
+    "mods/csr-neoforge-1.21.1-1.0.2.jar": "ea276d5e0c53ae91a070f7d5b46cfa02726ec946ff7f6015abbe76f58acc095e",
+    "mods/cupboard-1.21-3.5.jar": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
+    "mods/curios-neoforge-9.5.1+1.21.1.jar": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+    "mods/dontcrashtom-1.0.0.jar": "2bafcc263a0a995ead2db80504f8917c244a23b8dc03e5bce18ccf464972a49d",
+    "mods/dragonfight-1.21-4.7.jar": "2e314b5c7e84497e2b12e359a0ab224783a10d3dee774f56a5890ffc3f8d8745",
+    "mods/effortlessbuilding-1.21.1-3.10-all.jar": "43cc5b654a3f29a094ea5888749bbdc2c094d07e0e80a77647c073d00f87cad8",
+    "mods/extended-industrialization-1.15.34-1.21.1.jar": "e4d47932dbed4e3cbd538a397c060cd3db75aa49cc049d72b5c1753d0e916708",
+    "mods/fastpipes-1.21.1-1.2.0.jar": "6a36a301001042153a708969185e7c1fb12d52bbc104b98a38fcf7db878cb6f9",
+    "mods/ferritecore-7.0.3-neoforge.jar": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+    "mods/findme-3.3.3-neoforge.jar": "9b19a74cfa1ff011a10d55108e58b48700e8121fa0785d261a8d645ac10ec2ff",
+    "mods/geckolib-neoforge-1.21.1-4.8.4.jar": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
+    "mods/generalfeedback-1.0.0.jar": "5c09cb31a9b17c8f21405ad63900bc9cf63e80c662858d1c67c6e0079b2651dc",
+    "mods/gpumemleakfix-1.21-1.8.jar": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+    "mods/guideme-21.1.15.jar": "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7",
+    "mods/incontrol-1.21-10.2.6.jar": "f7ef3ac3c1e8faf8cf2764a63858e2658d81c2bb1174e625ce304318ac079add",
+    "mods/industrialization_overdrive-1.11.1+1.21.1.jar": "4eaac3cd83526d6ae95e4e6657da22c5543fa7e7fde04299b2478db985315cfb",
+    "mods/iris-neoforge-1.8.12+mc1.21.1.jar": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+    "mods/ironchest-1.21-neoforge-16.0.7.jar": "dae66a38a33c2adac6ca0b7a4fbf4b365ba37a6a1f7a10961028617965c1fcaf",
+    "mods/jamlib-neoforge-1.3.6+1.21.1.jar": "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514",
+    "mods/jei-1.21.1-neoforge-19.27.0.340.jar": "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
+    "mods/kubejs-neoforge-2101.7.2-build.348.jar": "6ddc6ddd16fabe09e2dd4303c6a598e3c272d6820b5c081f9c53e6b7aa6397fb",
+    "mods/lithium-neoforge-0.15.3+mc1.21.1.jar": "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
+    "mods/lithostitched-1.6.5-neoforge-21.1.jar": "93dafb81acec4936d23bddd4cc35cb982c79d5f780c5ec4e23c22837d2e726f8",
+    "mods/lootjs-neoforge-1.21.1-3.6.1.jar": "48975a4a1c58831fdfe070c0488d5a264e13390001603adc45bfab6f5784a18a",
+    "mods/mcjtylib-1.21-9.0.20.jar": "5bfd971d990d7f7e6880cac04b9fc6180e1b42b884a96a147e9799d7e24af27b",
+    "mods/mi_sound_addon-1.2.0-1.21.1.jar": "def168ad9f50f4afeaa173b2b0150af6acbaf992ad2da397d80cf7fccc8c51f7",
+    "mods/modernfix-neoforge-5.26.1+mc1.21.1.jar": "4b0b0f36813255592d5b0d1eebd8fd2219e27038cc8966dd53b2209dd69bb058",
+    "mods/mowziesmobs-1.21.1-1.8.2.jar": "b8e7e39fb6430326de7fbb193db56588ee8bd04d0054527924fe588f37131e4f",
+    "mods/onlyhammersandexcavators-1.21.1-0.9.jar": "715ef15702bc5def5037b1f9bb59fe0e1cb75b0982bd4e1f683a4b870a015239",
+    "mods/prickle-neoforge-1.21.1-21.1.11.jar": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
+    "mods/rehooked-1.9.4-1.21.1.jar": "dbf7b0804b450428613d55af05b8f08ef20c03f09258497913ab0f66465e1c15",
+    "mods/reliable_remover-neoforge-1.21.1-1.7.5.jar": "9126999bcac813bd713875d6bf05c241e58dd504013ec6c5bef9f683ca136279",
+    "mods/rftoolsbase-1.21-6.0.10.jar": "2e2dfaebf11189a71973baede48491f1074bec48335ea39b128d012f5c83a301",
+    "mods/rftoolsbuilder-1.21-7.0.4.jar": "ab4f26ab6b8ebbe76caf2c46a7107cf724dc207112caaa49a3a636c65acba2d1",
+    "mods/rftoolspower-1.21-7.0.5.jar": "e9ffe33d231b4ca99360a74743c3e1850832347c6abb43f396c2421f91a16d71",
+    "mods/rftoolsutility-1.21-7.0.11.jar": "bf38b428b688791c2c9d409c854ea7bb08b114c111f018f80e85e87d063c8c62",
+    "mods/rhino-2101.2.7-build.81.jar": "fcc3f8de61771596f1b120f734819cb97f5935a5d42c76f4057a0be06a3609db",
+    "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar": "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52",
+    "mods/schematicannon-1.21.1-6.0.7.jar": "3f128a5325b4ad58ce89cd4298c693666520868d0da56773744a94c0732210f9",
+    "mods/shulkerboxslot-neoforge-6.0.0+1.21.1.jar": "980fb5a7a726698eafdb24ec06809c209ab497982941dcb00d358ed8d6f1baf9",
+    "mods/simplemenu-1.21.1-2.0.jar": "89c0796104703ffc7d169afc81498e18fdbe5224c65051ab0cba10f7f7ffeaaa",
+    "mods/smartcrafting-1.21.1-1.2.13.jar": "5e9c8583a26e989f91b36d3b00649fadc389c2e1133c4cc5b2f6fd7449ae4bb0",
+    "mods/sodium-neoforge-0.6.13+mc1.21.1.jar": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+    "mods/sophisticatedcore-1.21.1-1.4.13.1573.jar": "88df7a4eca93a1e4239183a08d1303a85b3b6cb506d6b48308db2759e1a18f0d",
+    "mods/sophisticatedsorter-1.0.6-hotfix.jar": "b0f98dcddaad00123d392241e33b30b7f871a8afd07e617c4ec901ff543c105a",
+    "mods/soulgravestone-1.0.2.jar": "37d2bb5ccce5f77dc5a640b2c3cf264775b1e2829834786edcf803b6e9136822",
+    "mods/tesseract-api-neoforge-1.11.10-1.21.1.jar": "2d5cbcc0b52eb00c3c92d1939afc4ee95eca489e37ffac40a85e1b9ec3121ec2",
+    "mods/tipsmod-neoforge-1.21.1-21.1.3.jar": "242d7ed8d7b78e12be37c09d38ed0dc25e55d3af9d5f4395400b7c57cb30381b",
+    "mods/toms_storage-1.21-2.3.0.jar": "aa50d6e638ca30a7b693eb67b21b7f1b8d528877d2504ac1eb8b0bdc6136ce0e",
+    "mods/trashslot-neoforge-1.21.1-21.1.6.jar": "6304d2c747a4d8dc02bb99fc27df2dfafd04129d4b8cc3f14511478cad6e057f",
+    "mods/untitledduckmod-1.5.2-neoforge-1.21.1.jar": "097474fb32abcefc6393aac6fbecd17d46a7e331c7faa2d45dc8a53575b52399",
+    "mods/villagerconfig-neoforge-4.5.2+1.21.1.jar": "ce4380a3e16ef2cde6418659a6e934c88ffccbb5fdc874a8d2361eb36ba02bdb",
+    "mods/villagerinabucket-neoforge-1.21.1-1.1.1.jar": "f8376714399d97055c95653c048a18210e33c64afec9b5c2bf03bc627ec87c3d",
+    "mods/xaerominimap-neoforge-1.21.1-25.3.10.jar": "b28dd669e17d70be126b887845646ade10f2c9a2aed15a0750e7cc1c760e653d",
+    "mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar": "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6",
+    "mods/yeetusexperimentus-neoforge-87.0.0.jar": "9117db8b5905abf18f64fdf8f8d8ca5a91c23abd0a7fa2c9986c21aa17d74e75"
+  },
+  "upstreamLockSha256": "838766c27e346c4cea8e9276a51be7129ec2f8ef4279412fcdea3c22e13b30c9"
+}

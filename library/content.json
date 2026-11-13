@@ -3,5 +3,20 @@
   "relativePath": "Clayblock",
   "name": "Clayblock",
   "summary": "Мир из глины, где привычные материалы получают переработкой.",
-  "description": "Обычный мир, Нижний мир и Край состоят из глины и родственных материалов. Получайте ресурсы обжигом, плавкой и другими способами обработки, затем автоматизируйте производство. Цель — добраться до высшей степени сжатия глины."
+  "description": "Обычный мир, Нижний мир и Край состоят из глины и родственных материалов. Получайте ресурсы обжигом, плавкой и другими способами обработки, затем автоматизируйте производство. Цель — добраться до высшей степени сжатия глины.",
+  "libraryIds": [
+    "fabric_api_base",
+    "fabric_block_view_api_v2",
+    "fabric_particles_v1",
+    "fabric_renderer_api_v1",
+    "fabric_rendering_data_attachment_v1",
+    "flywheel",
+    "grandpower",
+    "iteminteractions",
+    "kuma_api",
+    "ponder",
+    "reliable_recipes",
+    "spectrelib",
+    "xaerolib"
+  ]
 }

@@ -1,0 +1,373 @@
+{
+  "authorArchiveSha256": "65acd2b65ff2349aef8bc78ee091d2a17e9c2b20c5b2859fb7eb1ec35d4d3b20",
+  "individuallyVerified": {
+    "fabric_api_base": {
+      "distinctMatchingByteStreams": 3,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "0.4.42+d1308ded19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-api-base",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-api-base-0.4.42+d1308ded19.jar"
+          ],
+          "nestedSha256": "45375473c9156890d3e09aebfd97f0d4a9360d6c94462f217ce1582cc73edafa",
+          "parentPath": "mods/Kiwi-1.21.1-NeoForge-15.8.3.jar",
+          "parentSha256": "16a7f5cf0015ac86ad977b397d6dfef14884412e14c14d428a3598436a2c9561"
+        },
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "0.4.42+d1308ded19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-api-base",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-api-base-0.4.42+d1308ded19.jar"
+          ],
+          "nestedSha256": "1aa448a0eff484c7b9f5a6aedbc5050a8d17999f31949dfebb20a7b977f80a07",
+          "parentPath": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "parentSha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+        },
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "0.4.42+d1308ded19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-api-base",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-api-base-0.4.42+d1308ded19.jar"
+          ],
+          "nestedSha256": "620fa28434a74dfa9e94af33a3e3bf70a939e9a4b0fcae1fbc01ba2c24f32531",
+          "parentPath": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+          "parentSha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+        }
+      ],
+      "nativeSourceFile": "fabric-api-base-0.4.42+d1308ded19.jar",
+      "nativeVersion": "0.4.42+d1308ded19",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api"
+    },
+    "fabric_block_view_api_v2": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "1.0.10+9afaaf8c19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-block-view-api-v2",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar"
+          ],
+          "nestedSha256": "87da93c4ef283e0ce66f8da67d6cba93d9884c55152014a49c2b6f4f861bec48",
+          "parentPath": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "parentSha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+        },
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "1.0.10+9afaaf8c19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-block-view-api-v2",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar"
+          ],
+          "nestedSha256": "87da93c4ef283e0ce66f8da67d6cba93d9884c55152014a49c2b6f4f861bec48",
+          "parentPath": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+          "parentSha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+        }
+      ],
+      "nativeSourceFile": "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar",
+      "nativeVersion": "1.0.10+9afaaf8c19",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api"
+    },
+    "fabric_particles_v1": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "4.0.2+824f924c19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-particles-v1",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-particles-v1-4.0.2+824f924c19.jar"
+          ],
+          "nestedSha256": "bc73c616fe55d617e917a30984cce67bf98a191279d648de5563b299fc1a98f3",
+          "parentPath": "mods/Lychee-1.21.1-NeoForge-6.5.0.jar",
+          "parentSha256": "7257c01b1c1ba4fa1de082a8e8d36bedc7857fc6dd0224e0f341a5ef1525f964"
+        }
+      ],
+      "nativeSourceFile": "fabric-particles-v1-4.0.2+824f924c19.jar",
+      "nativeVersion": "4.0.2+824f924c19",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api"
+    },
+    "fabric_renderer_api_v1": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "3.4.0+acb05a3919",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-renderer-api-v1",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-renderer-api-v1-3.4.0+acb05a3919.jar"
+          ],
+          "nestedSha256": "0a504d27ddf494df91bcf59a3bdc584ef0fd41753323c86bb6e242e4b7958a27",
+          "parentPath": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+          "parentSha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+        }
+      ],
+      "nativeSourceFile": "fabric-renderer-api-v1-3.4.0+acb05a3919.jar",
+      "nativeVersion": "3.4.0+acb05a3919",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api"
+    },
+    "fabric_rendering_data_attachment_v1": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "0.3.48+73761d2e19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-rendering-data-attachment-v1",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar"
+          ],
+          "nestedSha256": "a720c7a1e73583e0fed5110556290df023d158750740bc00e4040d6cd2cb9af1",
+          "parentPath": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "parentSha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+        },
+        {
+          "declaredAuthor": "Sinytra, FabricMC",
+          "declaredIssueTrackerUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/issues",
+          "declaredVersion": "0.3.48+73761d2e19",
+          "declaredWebsiteUrl": "https://github.com/Sinytra/ForgifiedFabricAPI",
+          "jarJarCoordinate": "org.sinytra.forgified-fabric-api:fabric-rendering-data-attachment-v1",
+          "jarJarPath": [
+            "META-INF/jarjar/fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar"
+          ],
+          "nestedSha256": "a720c7a1e73583e0fed5110556290df023d158750740bc00e4040d6cd2cb9af1",
+          "parentPath": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+          "parentSha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+        }
+      ],
+      "nativeSourceFile": "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar",
+      "nativeVersion": "0.3.48+73761d2e19",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api"
+    },
+    "flywheel": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Jozufozu, PepperCode1",
+          "declaredIssueTrackerUrl": "https://github.com/Engine-Room/Flywheel/issues",
+          "declaredVersion": "1.0.4-beta-21",
+          "declaredWebsiteUrl": "https://github.com/Engine-Room/Flywheel",
+          "jarJarCoordinate": "dev.engine-room.flywheel:flywheel-neoforge-1.21.1",
+          "jarJarPath": [
+            "META-INF/jarjar/flywheel-neoforge-1.21.1-1.0.4-beta-21.jar"
+          ],
+          "nestedSha256": "cbfc28428a37ccc738a26d3dbc71c08a9f5a43cd5ec972a31293c14bc7ebdebc",
+          "parentPath": "mods/schematicannon-1.21.1-6.0.7.jar",
+          "parentSha256": "3f128a5325b4ad58ce89cd4298c693666520868d0da56773744a94c0732210f9"
+        }
+      ],
+      "nativeSourceFile": "flywheel-neoforge-1.21.1-1.0.4-beta-21.jar",
+      "nativeVersion": "1.0.4-beta-21",
+      "websiteUrl": "https://github.com/Engine-Room/Flywheel"
+    },
+    "grandpower": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Technici4n",
+          "declaredIssueTrackerUrl": null,
+          "declaredVersion": "3.0.0",
+          "declaredWebsiteUrl": null,
+          "jarJarCoordinate": "dev.technici4n:GrandPower",
+          "jarJarPath": [
+            "META-INF/jarjar/GrandPower-3.0.0.jar"
+          ],
+          "nestedSha256": "f0db91e29124a8119c3a511831a52b058f339f9d3af7c06bba96cca3b04d1db1",
+          "parentPath": "mods/Modern-Industrialization-2.4.2.jar",
+          "parentSha256": "1400779396be8dbd2e19c1cb3a228a3edec25ba98b14ea71111db665b4c01408"
+        }
+      ],
+      "nativeSourceFile": "GrandPower-3.0.0.jar",
+      "nativeVersion": "3.0.0",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/grandpower"
+    },
+    "iteminteractions": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Fuzs",
+          "declaredIssueTrackerUrl": "https://github.com/Fuzss/iteminteractions/issues",
+          "declaredVersion": "21.1.4",
+          "declaredWebsiteUrl": "https://github.com/Fuzss/iteminteractions",
+          "jarJarCoordinate": "fuzs.iteminteractions:iteminteractions-neoforge",
+          "jarJarPath": [
+            "META-INF/jars/iteminteractions-neoforge-21.1.4.jar"
+          ],
+          "nestedSha256": "9b88c3d67b72698e457bcbbc723dde1f91ab80b8f4a3bf93a7f1d98bb47a4870",
+          "parentPath": "mods/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
+          "parentSha256": "9976385a5993fd1c5d8b029aad5ac100e67a218c28fc7c9eb0ba59557f860ed8"
+        }
+      ],
+      "nativeSourceFile": "iteminteractions-neoforge-21.1.4.jar",
+      "nativeVersion": "21.1.4",
+      "websiteUrl": "https://github.com/Fuzss/item-interactions"
+    },
+    "kuma_api": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "BlayTheNinth",
+          "declaredIssueTrackerUrl": "https://github.com/TwelveIterationMods/Kuma/issues",
+          "declaredVersion": "21.0.7",
+          "declaredWebsiteUrl": "https://mods.twelveiterations.com/mc/kuma",
+          "jarJarCoordinate": "net.blay09.mods:kuma-api",
+          "jarJarPath": [
+            "META-INF/jarjar/kuma-api-neoforge-21.0.7+1.21.jar"
+          ],
+          "nestedSha256": "46e4cbef87b83aa91660be8d8cbf109c8bbfb0ca4eebad0958e69cc568fa8292",
+          "parentPath": "mods/balm-neoforge-1.21.1-21.0.56.jar",
+          "parentSha256": "670ed64e73cacb646b21eaa6e2d2028f95c498d0cf1ae5cffcf7035d0b2fb32e"
+        }
+      ],
+      "nativeSourceFile": "kuma-api-neoforge-21.0.7+1.21.jar",
+      "nativeVersion": "21.0.7",
+      "websiteUrl": "https://github.com/TwelveIterations/KumaAPI"
+    },
+    "ponder": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "simibubi, Pepper, zelophed",
+          "declaredIssueTrackerUrl": "https://github.com/Creators-of-Create/Ponder/issues",
+          "declaredVersion": "1.0.56",
+          "declaredWebsiteUrl": "https://github.com/Creators-of-Create/Ponder",
+          "jarJarCoordinate": "net.createmod.ponder:Ponder-NeoForge-1.21.1",
+          "jarJarPath": [
+            "META-INF/jarjar/Ponder-NeoForge-1.21.1-1.0.56.jar"
+          ],
+          "nestedSha256": "f042aa429cbb8e8dfe206792aea4c184264eebd4ba412aa3849d20dc37b87496",
+          "parentPath": "mods/schematicannon-1.21.1-6.0.7.jar",
+          "parentSha256": "3f128a5325b4ad58ce89cd4298c693666520868d0da56773744a94c0732210f9"
+        }
+      ],
+      "nativeSourceFile": "Ponder-NeoForge-1.21.1-1.0.56.jar",
+      "nativeVersion": "1.0.56",
+      "websiteUrl": "https://github.com/Creators-of-Create/Ponder"
+    },
+    "reliable_recipes": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Evan",
+          "declaredIssueTrackerUrl": "https://github.com/evanbones/Reliable-Recipes/issues",
+          "declaredVersion": "1.6.2",
+          "declaredWebsiteUrl": null,
+          "jarJarCoordinate": "maven.modrinth:reliable-recipes",
+          "jarJarPath": [
+            "META-INF/jarjar/reliable-recipes-1.6.2-1.21.1-neoforge.jar"
+          ],
+          "nestedSha256": "a389c3548580f456da4b46dfe133f39a24ee0affef93ba5d46b475e3a38aca45",
+          "parentPath": "mods/reliable_remover-neoforge-1.21.1-1.7.5.jar",
+          "parentSha256": "9126999bcac813bd713875d6bf05c241e58dd504013ec6c5bef9f683ca136279"
+        }
+      ],
+      "nativeSourceFile": "reliable-recipes-1.6.2-1.21.1-neoforge.jar",
+      "nativeVersion": "1.6.2",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/reliable-recipes"
+    },
+    "spectrelib": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "Illusive Soulworks",
+          "declaredIssueTrackerUrl": "https://github.com/illusivesoulworks/spectrelib/issues",
+          "declaredVersion": "0.17.2+1.21",
+          "declaredWebsiteUrl": "https://github.com/illusivesoulworks/spectrelib",
+          "jarJarCoordinate": "com.illusivesoulworks.spectrelib:spectrelib-neoforge",
+          "jarJarPath": [
+            "META-INF/jarjar/spectrelib-neoforge-0.17.2+1.21.jar"
+          ],
+          "nestedSha256": "5be2f580af278c5707679ceb079aee46d13ffbe6c2f5138c86598a8e90ca3969",
+          "parentPath": "mods/shulkerboxslot-neoforge-6.0.0+1.21.1.jar",
+          "parentSha256": "980fb5a7a726698eafdb24ec06809c209ab497982941dcb00d358ed8d6f1baf9"
+        }
+      ],
+      "nativeSourceFile": "spectrelib-neoforge-0.17.2+1.21.jar",
+      "nativeVersion": "0.17.2+1.21",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/spectrelib"
+    },
+    "xaerolib": {
+      "distinctMatchingByteStreams": 1,
+      "matchingDeclarations": [
+        {
+          "declaredAuthor": "xaero96",
+          "declaredIssueTrackerUrl": null,
+          "declaredVersion": "1.1.0",
+          "declaredWebsiteUrl": null,
+          "jarJarCoordinate": "xaero.lib:xaerolib-neoforge-1.21.1",
+          "jarJarPath": [
+            "META-INF/jarjar/xaerolib-neoforge-1.21.1-1.1.0.jar"
+          ],
+          "nestedSha256": "822db84929c7f1928ce1b8d5e00a909b94da925960850802cf284074f1cdc3fe",
+          "parentPath": "mods/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+          "parentSha256": "b28dd669e17d70be126b887845646ade10f2c9a2aed15a0750e7cc1c760e653d"
+        },
+        {
+          "declaredAuthor": "xaero96",
+          "declaredIssueTrackerUrl": null,
+          "declaredVersion": "1.1.0",
+          "declaredWebsiteUrl": null,
+          "jarJarCoordinate": "xaero.lib:xaerolib-neoforge-1.21.1",
+          "jarJarPath": [
+            "META-INF/jarjar/xaerolib-neoforge-1.21.1-1.1.0.jar"
+          ],
+          "nestedSha256": "822db84929c7f1928ce1b8d5e00a909b94da925960850802cf284074f1cdc3fe",
+          "parentPath": "mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+          "parentSha256": "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6"
+        }
+      ],
+      "nativeSourceFile": "xaerolib-neoforge-1.21.1-1.1.0.jar",
+      "nativeVersion": "1.1.0",
+      "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/xaerolib"
+    }
+  },
+  "nativeEvidence": {
+    "authorModJarCount": 100,
+    "excludedIds": {
+      "e4steam": {
+        "nativeSourceFile": "e4steam-neoforge-mc1.20.2-26.3-v0.3.4-lanmc-native-ui.2.jar",
+        "version": "0.3.4"
+      },
+      "minecraft": {
+        "nativeSourceFile": "client-1.21.1-20240808.144430-srg.jar",
+        "version": "1.21.1"
+      },
+      "neoforge": {
+        "nativeSourceFile": "neoforge-21.1.219-universal.jar",
+        "version": "21.1.219"
+      }
+    },
+    "loadedAuthorModCount": 113,
+    "nativeModCount": 116,
+    "observedModListSha256": "124940da2749f43c0bf45f741ee0acd7fe1b4cba497f8096d0f35316a6af9de2",
+    "steamComponentSha256": "2cfedc07ee3c84b9b980351ea094d5f898c858f37ff46dada24c621061761d2e"
+  },
+  "note": "NeoForge source basenames and versions may point to byte-equivalent or differently packaged copies from multiple pinned parents. All matches are retained where the native observation did not identify an exact parent, and every match maps to the same official project.",
+  "officialCurseForgeProjectRecords": {
+    "normalizedCacheSha256": "dbdbb96e1308df165b7f11c96e0aa62867a1acbfecd826583fd83f95bf017170",
+    "projectCount": 100,
+    "projectEndpointTemplate": "https://api.modpacks.ch/public/curseforge/{projectId}"
+  },
+  "packVersion": "1.3.2",
+  "schemaVersion": 1,
+  "upstreamLockSha256": "838766c27e346c4cea8e9276a51be7129ec2f8ef4279412fcdea3c22e13b30c9"
+}
