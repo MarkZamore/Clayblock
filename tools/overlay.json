@@ -2,7 +2,21 @@
   "schemaVersion": 1,
   "authorArchiveSha256": "65acd2b65ff2349aef8bc78ee091d2a17e9c2b20c5b2859fb7eb1ec35d4d3b20",
   "descriptorSha256": "02e8411067625c31037db68a37e848d8cb0c6b4be0304ee8c47dfe5268da87ff",
-  "patches": [],
+  "patches": [
+    {
+      "path": "kubejs/config/defaultoptions.txt",
+      "before": {
+        "sizeBytes": 10699,
+        "sha256": "de26e58f184050a2ec7f9077d97fcd86d6607f8a4134011ab9aff1139f30fefc"
+      },
+      "after": {
+        "sizeBytes": 10685,
+        "sha256": "d278d9ee34ba35d1f34312106f770a76b4ebeb8e9a04a2029af784caeefec899"
+      },
+      "from": "version:3955\r\n",
+      "to": ""
+    }
+  ],
   "additions": [
     {
       "path": "config/log4j2.xml",
