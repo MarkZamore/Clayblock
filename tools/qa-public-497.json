@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "sourceRevision": "1df15b178afdf78eba954870d6ffc785dc6e47b6",
+  "manifestSha256": "660845166d85091882e17fefd68ec54399c6dc22fb7d5c8df33ca40db302a8d6",
+  "releaseNumber": 497,
+  "launcherRevision": "e45c6f5830c8aa4725b4190cf05462097d94b753",
+  "launcherExecutableSha256": "1169b958dca5633ecabc43b32cfd5091ce4f9de111fa767c5c58f4ec765a6b7c",
+  "launcherAssemblySha256": "532f9237f5c226c18bbe4fb885389ea2b13ac31de8f24932b03fb3b7d5947b4a",
+  "libraryArchiveSha256": "3589cacca0977dce21eb426341302816f2e5df2e8b358d9a2363cafb4196e93f",
+  "descriptorSha256": "02e8411067625c31037db68a37e848d8cb0c6b4be0304ee8c47dfe5268da87ff",
+  "testAgentSha256": "e61d685567ea78960411255a9f92a330b51f70624ca616414590822d164899f5",
+  "minecraft": "1.21.1",
+  "neoForge": "21.1.219",
+  "javaVersion": "21.0.12.1",
+  "authorOptionsTemplateSha256": "de26e58f184050a2ec7f9077d97fcd86d6607f8a4134011ab9aff1139f30fefc",
+  "correctedTemplateSha256": "d278d9ee34ba35d1f34312106f770a76b4ebeb8e9a04a2029af784caeefec899",
+  "generatedOptionsSha256": "de26e58f184050a2ec7f9077d97fcd86d6607f8a4134011ab9aff1139f30fefc",
+  "generatedOptionsVersionRows": 1,
+  "generatedOptionsMatchesOriginalAuthorTemplate": true,
+  "inputLevelDatFirst": "350a615e90b6f3752631d9dcc70494352d118a5515bbeef0c0f1082a94f739bc",
+  "inputLevelDatSecond": "a6a1fe8b70cf60d1a649ba39b0aac6751fd37f52cb56af3c8ce5c3c550875349",
+  "postExitLevelDatSha256": "d75e30c036db0d603022f7961d5b60dd5a76211b96f4ff46d6bbc40ba091d8c0",
+  "computerUse": false,
+  "secondAccount": "NOT RUN",
+  "regressionEvidenceSha256": "9a503c7acef7dbce5ac13ab2e4283e8da9b13a547a9a9fd4a08739831fc712e5",
+  "nativeRuns": [
+    {
+      "label": "clayblock-public497-corrected-first-options",
+      "exitCode": 0,
+      "loadedMods": 116,
+      "windowsCommandLengthBefore": 40243,
+      "windowsCommandLengthAfter": 1033,
+      "productionJavaArgumentFileUsed": true,
+      "productionJavaArgumentFileRemoved": true,
+      "windowTitles": [
+        {
+          "nativeWindow": true,
+          "matches": true,
+          "expected": "Clayblock",
+          "phase": "startup",
+          "actual": "Clayblock"
+        },
+        {
+          "nativeWindow": true,
+          "matches": true,
+          "expected": "Clayblock",
+          "phase": "world_before_steam",
+          "actual": "Clayblock"
+        },
+        {
+          "nativeWindow": true,
+          "matches": true,
+          "expected": "Clayblock",
+          "phase": "world_after_steam",
+          "actual": "Clayblock"
+        }
+      ],
+      "checks": {
+        "world_reopened": {
+          "gameMode": "SURVIVAL",
+          "commands": false
+        },
+        "native_world_generation": {
+          "overworld": {
+            "biomes": "[modpack:clayland]",
+            "generator": "net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator"
+          },
+          "nether": {
+            "biomes": "[modpack:terracottaland]",
+            "generator": "net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator"
+          }
+        },
+        "pause_before_publish": {
+          "worldSettingsOrCheats": false,
+          "nativeButtonCallback": true,
+          "shareToLan": 1
+        },
+        "published": {
+          "settingsClosedOnPublication": true,
+          "nativeListener": true
+        },
+        "native_permissions": {
+          "checks": {
+            "hostBefore": false,
+            "savedAllowsCommands": false,
+            "hostAfter": false,
+            "savedSurvivalMode": true,
+            "guestAfter": false,
+            "guestBefore": false
+          },
+          "syntheticGuest": true,
+          "actualPlayerList": true
+        },
+        "pause_after_publish": {
+          "shareToLanGone": true,
+          "reports": true,
+          "worldSettingsOrCheats": false
+        },
+        "chat": {
+          "nativeLocalHistory": true,
+          "privateEndpointRecorded": false,
+          "greenCopyableAddress": true,
+          "readyLines": 1,
+          "redCloseAction": true,
+          "blueInviteAction": true,
+          "localPortLines": 1
+        },
+        "steam_lobby_metadata": {
+          "displayFlag": true,
+          "matchesWorldName": true,
+          "secondAccountDiscovery": "NOT RUN",
+          "matchesLauncherPlayer": true,
+          "actualSteamLobby": true
+        },
+        "world_saved": {
+          "levelDatSha256": "b186a60f46b7f8595c2592135f03b61c6171f64b071de7b1815bea89ff92423e",
+          "levelDatBytes": 9650
+        },
+        "complete": {
+          "guestConnection": "NOT RUN",
+          "nativeSteamHost": "PASS"
+        }
+      },
+      "productionLogMarkers": {
+        "steamDiscoveryPatched": 1,
+        "titleProducerPatched": 1,
+        "friendShareStart": 1,
+        "oneLanAutoPublish": 1,
+        "steamReady": 1
+      }
+    },
+    {
+      "label": "clayblock-public497-corrected-persisted-options",
+      "exitCode": 0,
+      "loadedMods": 116,
+      "windowsCommandLengthBefore": 40259,
+      "windowsCommandLengthAfter": 1033,
+      "productionJavaArgumentFileUsed": true,
+      "productionJavaArgumentFileRemoved": true,
+      "windowTitles": [
+        {
+          "phase": "startup",
+          "actual": "Clayblock",
+          "nativeWindow": true,
+          "matches": true,
+          "expected": "Clayblock"
+        },
+        {
+          "phase": "world_before_steam",
+          "actual": "Clayblock",
+          "nativeWindow": true,
+          "matches": true,
+          "expected": "Clayblock"
+        },
+        {
+          "phase": "world_after_steam",
+          "actual": "Clayblock",
+          "nativeWindow": true,
+          "matches": true,
+          "expected": "Clayblock"
+        }
+      ],
+      "checks": {
+        "world_reopened": {
+          "commands": false,
+          "gameMode": "SURVIVAL"
+        },
+        "native_world_generation": {
+          "nether": {
+            "biomes": "[modpack:terracottaland]",
+            "generator": "net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator"
+          },
+          "overworld": {
+            "biomes": "[modpack:clayland]",
+            "generator": "net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator"
+          }
+        },
+        "pause_before_publish": {
+          "nativeButtonCallback": true,
+          "shareToLan": 1,
+          "worldSettingsOrCheats": false
+        },
+        "published": {
+          "nativeListener": true,
+          "settingsClosedOnPublication": true
+        },
+        "native_permissions": {
+          "checks": {
+            "savedSurvivalMode": true,
+            "guestAfter": false,
+            "guestBefore": false,
+            "hostBefore": false,
+            "savedAllowsCommands": false,
+            "hostAfter": false
+          },
+          "syntheticGuest": true,
+          "actualPlayerList": true
+        },
+        "pause_after_publish": {
+          "worldSettingsOrCheats": false,
+          "shareToLanGone": true,
+          "reports": true
+        },
+        "chat": {
+          "redCloseAction": true,
+          "blueInviteAction": true,
+          "localPortLines": 1,
+          "nativeLocalHistory": true,
+          "privateEndpointRecorded": false,
+          "greenCopyableAddress": true,
+          "readyLines": 1
+        },
+        "steam_lobby_metadata": {
+          "actualSteamLobby": true,
+          "displayFlag": true,
+          "matchesWorldName": true,
+          "secondAccountDiscovery": "NOT RUN",
+          "matchesLauncherPlayer": true
+        },
+        "world_saved": {
+          "levelDatBytes": 9645,
+          "levelDatSha256": "f6d65217307354c0691281e401717b53ca00fce6091bad5bede5f4be8cfa6a42"
+        },
+        "complete": {
+          "guestConnection": "NOT RUN",
+          "nativeSteamHost": "PASS"
+        }
+      },
+      "productionLogMarkers": {
+        "steamDiscoveryPatched": 1,
+        "titleProducerPatched": 1,
+        "friendShareStart": 1,
+        "oneLanAutoPublish": 1,
+        "steamReady": 1
+      }
+    }
+  ],
+  "nativeProofSha256": "7f737a66bee4597c8990a5a73b906dee0827cb0e7abe79baf7c21e9072dd856c",
+  "upstreamLockSha256": "838766c27e346c4cea8e9276a51be7129ec2f8ef4279412fcdea3c22e13b30c9",
+  "loadedAuthorModCount": 113,
+  "publicInstall": {
+    "outcome": "PASS",
+    "revision": "1df15b178afdf78eba954870d6ffc785dc6e47b6",
+    "manifestSha256": "660845166d85091882e17fefd68ec54399c6dc22fb7d5c8df33ca40db302a8d6",
+    "librarySha256": "3589cacca0977dce21eb426341302816f2e5df2e8b358d9a2363cafb4196e93f",
+    "launcherAssemblySha256": "532f9237f5c226c18bbe4fb885389ea2b13ac31de8f24932b03fb3b7d5947b4a",
+    "gameAssets": 88,
+    "gameAssetBytes": 128178900,
+    "installedFiles": 6956,
+    "installedBytes": 128225178.0
+  }
+}
