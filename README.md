@@ -21,6 +21,14 @@ python -B tools/PackData/CurseForge/release_overlay.py stage --pack-source Local
 
 ## Публикация
 
+Раскладка для кнопки «Пресет управления» описана в [инструкции по раскладке](tools/keybinds/design.md). После коммита и обычной подготовки с полным lock запустите из корня LANMinecraft:
+
+```powershell
+python -B LocalSources/Clayblock/tools/stage_controls_release.py --launcher-source . --stage $stage --output $release --revision $revision
+```
+
+Сценарий использует штатную сборку архива библиотеки и игровых файлов. Пресет добавляется отдельным архивом. Загружайте новые архивы до замены манифеста `pack-latest`.
+
 У сборки MIT. В манифесте закреплён Collective, CF 342584/7148969. Условия мода требуют загрузку с CurseForge или Modrinth. [Условия](https://www.curseforge.com/minecraft/mc-mods/collective)
 
 Пользователь подтвердил наличие разрешения на перезалив. Публикация следует после проверки полного состава и нативной приёмки.
