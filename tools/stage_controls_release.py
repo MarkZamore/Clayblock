@@ -6,6 +6,8 @@ import sys
 from tempfile import TemporaryDirectory
 from zipfile import ZipFile
 
+from multiplayer_warning import TEMPLATE, verify_template
+
 PACK = Path(__file__).resolve().parents[1]
 PRESET = "launcher/controls-preset.txt"
 
@@ -19,6 +21,7 @@ def stage_release(launcher_source, stage, output, revision):
     from check_preset import check
 
     check()
+    verify_template((stage / "game" / TEMPLATE).read_bytes())
     preset = (PACK / PRESET).read_bytes()
     require(preset == normal.git(PACK, "cat-file", "blob", f"{revision}:{PRESET}"),
             "Preset differs from the selected Git revision")
@@ -28,6 +31,9 @@ def stage_release(launcher_source, stage, output, revision):
     with TemporaryDirectory(dir=output.parent, prefix=".clayblock-release-") as scratch:
         pending = Path(scratch) / "release"
         manifest = normal.build_release(PACK, stage, pending, revision, "minecraft-22")
+        warning_asset, = (asset for asset in manifest["assets"] if TEMPLATE in asset["covers"])
+        with ZipFile(pending / "assets" / warning_asset["name"]) as archive:
+            verify_template(archive.read(TEMPLATE))
         require(not any(row["path"].casefold() == PRESET.casefold() for row in manifest["files"]),
                 "The author payload already owns the controls preset path")
         assets = normal.build_assets(PACK, pending / "assets", {PRESET: pin})
