@@ -1,2 +1,3 @@
+config/lanminecraft/experimental-world-confirmation.jar
 config/log4j2.xml
 kubejs/config/defaultoptions.txt
